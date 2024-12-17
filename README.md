@@ -59,7 +59,7 @@ This organization is more than just code — it's about sharing a love for techn
 
 ### 📝 License
 
-All code is available under the **MIT License**. Feel free to use, modify, and share!
+All code is available under the **GNU GPL License**. Feel free to use, modify, and share!
 
 ---
 
